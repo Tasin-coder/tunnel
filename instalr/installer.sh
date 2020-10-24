@@ -69,6 +69,7 @@ echo ""
 ########
 cd $HOME
 clear
+exit
 echo  " "
 printf "  \e[101m\e[1;77m #> Script By Noob Hackers <# \e[0m\n"
 printf "\n"
